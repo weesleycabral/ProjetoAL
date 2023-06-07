@@ -1,31 +1,27 @@
 # DESAFIO ACTION LABS
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
+Este projeto com desenvolvido com Angular utilizando Typescript e consiste em verificar a taxa de câmbio do real brasileiro (BRL) em relação a outras moedas.
+O projeto em questão foi desenvolvido como parte de uma avaliação técnica para a empresa Action Labs.
 
 ## Instalação
 
-...
-1. Clone o repositório: git clone https://github.com/weesleycabral/ProjetoAL
-...
-3. Acesse o diretório: cd projetoal
-4. Instale as dependências 
+1. Clone o repositório: `git clone https://github.com/weesleycabral/ProjetoAL`
+3. Acesse o diretório: `cd projetoal`
+4. Instale as dependências `npm install`
 
-## Code scaffolding
+## Scripts
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+No diretório do projeto, você pode executar:
 
-## Build
+### `ng serve`
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Executa o aplicativo no modo de desenvolvimento.\
+Abra [http://localhost:4200](http://localhost:4200) para visualizá-lo no navegador.
 
-## Running unit tests
+A página será recarregada automaticamente se você fizer alterações no código.\
+Você também verá quaisquer erros de lint no console.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Tecnologias Utilizadas
 
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+- Angular
+- Typescript
