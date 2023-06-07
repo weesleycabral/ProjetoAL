@@ -19,7 +19,7 @@ Executa o aplicativo no modo de desenvolvimento.\
 Abra [http://localhost:4200](http://localhost:4200) para visualizá-lo no navegador.
 
 A página será recarregada automaticamente se você fizer alterações no código.\
-Você também verá quaisquer erros de lint no console.
+Você também verá quaisquer erros no console.
 
 ## Tecnologias Utilizadas
 
