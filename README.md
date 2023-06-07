@@ -2,9 +2,13 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
 
-## Development server
+## Instalação
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+...
+1. Clone o repositório: git clone https://github.com/weesleycabral/ProjetoAL
+...
+3. Acesse o diretório: cd projetoal
+4. Instale as dependências 
 
 ## Code scaffolding
 
