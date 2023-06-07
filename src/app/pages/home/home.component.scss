@@ -1,0 +1,69 @@
+.menu {
+  margin: auto;
+  width: 90%;
+}
+
+.logo {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.linha {
+  margin-top: 1.5em;
+  width: 100%;
+  border-bottom: 2px solid #d9d9d9;
+}
+
+.ipt-exchange {
+  background: #f4f4f4;
+  border-radius: 4px 4px 0px 0px;
+  border: none;
+  border-bottom: 1px solid #d9d9d9;
+  height: 56px;
+  width: 100%;
+  outline: none;
+  text-indent: 16px;
+}
+
+.btn-exchange {
+  background: #07b0fb;
+  border-radius: 100px;
+  width: 100%;
+  height: 48px;
+  color: #fff;
+  margin-top: 32px;
+}
+
+.box {
+  width: 100%;
+  height: 48px;
+  margin-top: 16px;
+  padding: 2.5em;
+  background: #e7f8ff;
+  color: #07b0fb;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.card-top {
+  background: #f4f4f4;
+  padding: 10px;
+  width: 100%;
+  margin: auto;
+  text-align: left !important;
+}
+
+.card {
+  width: 100%;
+  background: #fff;
+  height: 141px;
+  padding: 1em;
+  border: none;
+  box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.ipt-exchange:focus {
+  border: 2px solid #07b0fb;
+}
