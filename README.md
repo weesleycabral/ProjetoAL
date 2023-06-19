@@ -1,7 +1,6 @@
-# DESAFIO ACTION LABS
+# VERIFICAR CÂMBIO
 
 Este projeto foi desenvolvido com Angular utilizando Typescript e consiste em verificar a taxa de câmbio do real brasileiro (BRL) em relação a outras moedas.
-O projeto em questão foi desenvolvido como parte de uma avaliação técnica para a empresa Action Labs.
 
 ## Instalação
 
