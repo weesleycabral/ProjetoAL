@@ -5,8 +5,8 @@ Este projeto foi desenvolvido com Angular utilizando Typescript e consiste em ve
 Alguns códigos de exemplo: <br>
 USD - US dollar <br>
 EUR - Euro <br>
-GBP - british pounds
-JPY - japanese yen
+GBP - british pounds <br>
+JPY - japanese yen <br>
 CAD - canadian dollar
 
 
