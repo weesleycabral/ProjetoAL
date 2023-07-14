@@ -2,6 +2,14 @@
 
 Este projeto foi desenvolvido com Angular utilizando Typescript e consiste em verificar a taxa de câmbio do real brasileiro (BRL) em relação a outras moedas.
 
+Alguns códigos de exemplo:
+USD - US dollar
+EUR - Euro
+GBP - british pounds
+JPY - japanese yen
+CAD - canadian dollar
+
+
 ## Instalação
 
 1. Clone o repositório: `git clone https://github.com/weesleycabral/ProjetoAL`
