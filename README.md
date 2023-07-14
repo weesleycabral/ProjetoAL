@@ -2,9 +2,9 @@
 
 Este projeto foi desenvolvido com Angular utilizando Typescript e consiste em verificar a taxa de câmbio do real brasileiro (BRL) em relação a outras moedas.
 
-Alguns códigos de exemplo:
-USD - US dollar
-EUR - Euro
+Alguns códigos de exemplo: <br>
+USD - US dollar <br>
+EUR - Euro <br>
 GBP - british pounds
 JPY - japanese yen
 CAD - canadian dollar
